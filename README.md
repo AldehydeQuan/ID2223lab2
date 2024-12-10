@@ -1,3 +1,6 @@
+https://huggingface.co/spaces/AldehydeQuan/ID2223
+This links to the hugging face app running with trained model which has a limit of 100 words output.
+
 Improving Model Performance: Model-Centric and Data-Centric Approaches
 This document outlines strategies for improving the performance of machine learning models, categorized into model-centric and data-centric approaches. By following these methods, the aim is to achieve a more robust, accurate, and generalizable model.
 
